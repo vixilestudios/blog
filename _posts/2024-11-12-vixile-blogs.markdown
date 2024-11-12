@@ -7,7 +7,7 @@ image: "/blogs.png"
 excerpt: "Today is a special day! The VIXILE Studios blog page is FINALLY here!"
 ---
 
-<img class="page-image" src="{{ site.url }}/assets/images/blog{{ page.image }}" alt="{{ page.excerpt }}">
+<img class="page-image" src="{{ site.baseurl }}/assets/images/blog{{ page.image }}" alt="{{ page.excerpt }}">
 
 Welcome to the **VIXILE Blog page**! We are excited to finally launch this space where we can share the latest updates and insights with everyone. This blog is dedicated to keeping you informed about everything happening over here.
 

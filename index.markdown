@@ -8,7 +8,7 @@ title: "Home"
   {% for post in site.posts %}
     <li class="post-item">
       <a class="post-link" href="{{ post.url }}">
-        <img class="post-image" src="{{ site.url }}/assets/images/blog{{ post.image }}">
+        <img class="post-image" src="{{ site.baseurl }}/assets/images/blog{{ post.image }}">
         <p class="post-text">{{ post.title }}</p>
         <p class="post-excerpt">{{ post.excerpt }}</p>
       </a>
