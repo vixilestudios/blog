@@ -2,12 +2,14 @@ title: VIXILE Studios
 description: >-
   This is the blog page for the VIXILE Studios game development team.
 permalink: /:title
-url: "vixilestudios.github.io/blog"
+baseurl: "/blog"
+url: "https://vixilestudios.github.io"
 
 theme: minima
 plugins:
   - jekyll-feed
 
+paginate: 5
 paginate_path: "/page:num"
 
 exclude:
