@@ -182,14 +182,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-list {
-  display: grid;                          /* Set the parent as a grid */
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Automatically fit as many 250px wide items as possible */
-  gap: 20px;                              /* Space between items */
-  justify-content: start;                 /* Align items to the left */
-  align-content: start;                   /* Align items to the top */
-  padding: 20px;                          /* Optional: Adds padding around the grid */
-  width: 100%;                            /* Ensure it takes up the full width of the container */
-  box-sizing: border-box;                 /* Ensures padding is included in the width calculation */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 20px;
+  justify-content: start;
+  align-content: start;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .post-item {
