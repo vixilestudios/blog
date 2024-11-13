@@ -6,7 +6,6 @@ date: 2024-11-12 03:04 +0200
 categories: website
 image: /assets/images/blog/blogs.png
 ---
-```
 <img class="page-image" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.excerpt }}">
 
 
@@ -38,4 +37,3 @@ We aim to make this blog a comprehensive resource for VIXILE Studios.
 
 
 Anyways thats it for now, byeee!
-```
