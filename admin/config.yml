@@ -2,7 +2,7 @@ backend:
   name: github
   repo: vixilestudios/vixilestudios.github.io
   branch: main
-  base_url: https://sveltia-cms-auth.yogurtgaming2.workers.dev/callback
+  base_url: https://auth.vixile.workers.dev/
 
 search: false
 media_folder: "/assets/images/blog"
