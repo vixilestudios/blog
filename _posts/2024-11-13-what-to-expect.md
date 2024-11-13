@@ -3,7 +3,7 @@ layout: post
 title: What To Expect In 2025!
 excerpt: With 2025's crescendo almost at its very peak, and this year's light about to dim, it's time to reveal the many ideas and projects expected from Vixile in 2025!
 date: 2024-11-13 23:00 +0200
-categories: "2025"
+categories: 2025
 image: /assets/images/blog/WHAT TO EXPECT IN.png
 ---
 <img class="page-image" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.excerpt }}">
