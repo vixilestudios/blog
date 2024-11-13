@@ -1,3 +1,4 @@
+logo_url: /https://vixilestudios.github.io/blog/admin/auth.png
 backend:
   name: github
   repo: vixilestudios/blog
