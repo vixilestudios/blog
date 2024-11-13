@@ -2,7 +2,7 @@ backend:
   name: github
   repo: vixilestudios/vixilestudios.github.io
   branch: main
-  base_url: auth.vixile.workers.dev/
+  base_url: https://auth.vixile.workers.dev/
 
 search: false
 media_folder: "/assets/images/blog"
