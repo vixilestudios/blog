@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VIXILE Blogs is here!
-excerpt: Today is a special day! The VIXILE Studios blog page is FINALLY here!
+title: "VIXILE Blogs is here!"
+excerpt: "Today is a special day! The VIXILE Studios blog page is FINALLY here!"
 date: 2024-11-12 03:04 +0200
-categories: website
+categories: "website"
 image: /assets/images/blog/blogs.png
 ---
 <img class="page-image" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.excerpt }}">
