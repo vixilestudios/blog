@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "VIXILE Blogs is here!"
-date:   2024-11-12 03:04 +0200
+title: VIXILE Blogs is here!
+date: 2024-11-12 03:04 +0200
 categories: website
-image: "/blogs.png"
-excerpt: "Today is a special day! The VIXILE Studios blog page is FINALLY here!"
+image: /assets/images/blog/blogs.png
+excerpt: Today is a special day! The VIXILE Studios blog page is FINALLY here!
 ---
 
-<img class="page-image" src="{{ site.baseurl }}/assets/images/blog{{ page.image }}" alt="{{ page.excerpt }}">
+<img class="page-image" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.excerpt }}">
 
 Welcome to the **VIXILE Blog page**! We are excited to finally launch this space where we can share the latest updates and insights with everyone. This blog is dedicated to keeping you informed about everything happening over here.
 
