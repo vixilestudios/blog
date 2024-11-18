@@ -2,7 +2,7 @@ title: VIXILE Studios
 description: >-
   This is the blog page for the VIXILE Studios game development team.
 permalink: /:title
-baseurl: "/blog"
+baseurl: ""
 url: "https://vixilestudios.github.io/blog"
 
 theme: minima
