@@ -13,9 +13,6 @@ collections:
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    format:
-      yaml:
-        quote: double
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post", comment: "this should be ~5 words" }
       - { label: "Title", name: "title", widget: "string"}
