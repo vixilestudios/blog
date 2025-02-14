@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It's 2025! And BeatAscend is paused
+title: "It's 2025! And BeatAscend is paused"
 excerpt: "BeatAscend's progress has fell into a bit of a rough trench. Not to worry though, we are NOT halting BeatAscend Aurora's development!"
 date: 2025-02-14 15:02 +0200
 categories: "update"
