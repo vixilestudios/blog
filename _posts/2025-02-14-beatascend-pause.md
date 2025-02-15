@@ -6,7 +6,7 @@ date: 2025-02-14 15:02 +0200
 categories: update
 image: /assets/images/blog/blog image 1.png
 ---
-<img class="page-image" src="{{ site.baseurl }}/blog/{{ page.image }}" alt="{{ page.excerpt }}">
+<img class="page-image" src="{{ site.baseurl }}/blog/{{ page.image }}" alt="{{ Image of Cuboid and Friends staring at BeatAscend triangle broken in half under a spotlight }}">
 
 ##### It's 2025! And... BeatAscend is paused
 
