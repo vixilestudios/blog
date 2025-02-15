@@ -13,7 +13,7 @@ image: /assets/images/blog/blog image 1.png
 
 ##### It's 2025! And... BeatAscend is paused
 
-- Written by <span style="color: firebrick;">**Kos**</span>
+###### Written by <span style="color: firebrick;">**Kos**</span>
 
 Hey guys, Kos here. I'm one of the lead developers for BeatAscend. The game had a spike of development progress near November and then ever since, it has been kind of sitting stagnant with a few changes here and there. Now yogurt (the owner) has been working on the game but not very much. This is mainly because I haven't been able to touch the game at all, and we both want to make sure there is no discord between us and the rest of the team. Yogurt has also been particularly busy as well, with responsibilities outside of VIXILE.
 
