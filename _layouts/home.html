@@ -5,33 +5,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>VIXILE Studios | Blog</title>
-
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ site.baseurl }}/blog/stylesheet.css">
   <link rel="stylesheet" href="https://vixilestudios.github.io/stylesheet.css">
   <link rel="icon" type="image/x-icon" href="https://vixilestudios.github.io/favicon.ico" sizes="63x147">
-
   <!-- Open Graph tags -->
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.excerpt | strip_html | truncatewords: 20 }}">
-  <meta property="og:image" content="{{ page.image | absolute_url }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:image" content="https://vixilestudios.github.io/assets/images/hero.webp">
+  <meta property="og:url" content="{{ url }}">
+  <meta property="og:type" content="website">
 </head>
 <body>
   <!-- Navigation -->
   <nav class="navbar">
     <div class="logo">
       <a href="https://vixilestudios.github.io/">
-        <img src="https://vixilestudios.github.io/assets/images/logo.jpg" alt="Logo">
+        <img src="/assets/images/logo.webp" alt="Logo">
       </a>
     </div>
     <div class="links">
-      <a href="https://vixilestudios.github.io/blog">Blog</a>
+      <a href="https://vixilestudios.github.io/blog/">
+        <img src="/assets/images/blog.webp" alt="Blog" class="blog">
+      </a>
       <div style="min-width: 6rem;"></div>
     </div>
   </nav>
-
   <!-- Banner Image -->
   <div style="height: 3.5rem;"></div>
   <div class="outer-image">
@@ -40,7 +39,6 @@
       <img src="{{ site.baseurl }}/blog/assets/images/inner.png" alt="Logo">
     </div>
   </div>  
-
   <main class="page-content" aria-label="Content">
     <section class="content-container">
       <div class="content-wrapper">
@@ -48,17 +46,14 @@
       </div>
     </section>
   </main>
-
+  <!-- Footer -->
   <footer class="footer">
-    <p>© 2025 VIXILE Studios Team.
-      <span class="sep"></span>
-      <a href="https://vixilestudios.github.io/">Home</a>
-      <span class="sep"></span>
-      <a href="https://vixilestudios.github.io/blog">Blog</a>
-      <span class="sep"></span>
-      <a href="https://github.com/vixilestudios">GitHub</a>
-      <span class="sep"></span>
-      <a href="https://vixilestudios.github.io/terms.html">Terms of Service</a>
+    <p class="footer-link"> © 2025 VIXILE Studios.
+      <a class="footer-link" href="/">Home</a>
+      <a class="footer-link" href="https://vixilestudios.github.io/blog">Blog</a>
+      <a class="footer-link" href="https://github.com/vixilestudios">GitHub</a>
+      <a class="footer-link" href="https://vixilestudios.github.io/terms.html">Terms of Service</a>
+      <a class="footer-link" href="https://vixilestudios.github.io/privacy.html">Privacy Policy</a>
     </p>
   </footer>
 </body>
