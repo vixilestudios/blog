@@ -3,7 +3,7 @@ description: >-
   Find news about VIXILE Studios here!
 permalink: /:title
 baseurl: ""
-url: "https://vixilestudios.github.io/blog"
+url: "https://blog.vixile.org"
 
 theme: minima
 plugins:
