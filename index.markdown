@@ -7,8 +7,8 @@ title: "Home"
 <ul class="post-list">
   {% for post in site.posts %}
     <li class="post-item">
-      <a class="post-link" href="{{ site.baseurl }}/blog/{{ post.url }}">
-        <img class="post-image" src="{{ site.baseurl }}/blog/{{ post.image }}">
+      <a class="post-link" href="{{ site.url }}/{{ post.url }}">
+        <img class="post-image" src="{{ site.url }}/{{ post.image }}">
         <p class="post-text">{{ post.title }}</p>
         <p class="post-excerpt">{{ post.excerpt }}</p>
       </a>

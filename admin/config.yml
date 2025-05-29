@@ -20,4 +20,4 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm [+0200]" }
       - { label: "Tag", pattern: ['^[a-z0-9]+$', "Must be lowercase letters and numbers only, no spaces."], comment: "The tag should usually be the blog topic, make sure your tag is something simple and possibly consistent", name: "categories", widget: "string", required: false }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Content", comment: "do not remove the default markdown, unless you don't want the image to show up on the top of the blog content", name: "body", widget: "markdown", default: "<img class=\"page-image\" src=\"{{ site.baseurl }}/blog/{{ page.image }}\" alt=\"{{ page.excerpt }}\">" }
+      - { label: "Content", comment: "do not remove the default markdown, unless you don't want the image to show up on the top of the blog content", name: "body", widget: "markdown", default: "<img class=\"page-image\" src=\"{{ site.url }}/{{ page.image }}\" alt=\"{{ page.excerpt }}\">" }

@@ -6,7 +6,7 @@ date: 2024-11-13 14:23 +0200
 categories: "next-year"
 image: /assets/images/blog/WHAT TO EXPECT IN.png
 ---
-<img class="page-image" src="{{ site.baseurl }}/blog/{{ page.image }}" alt="{{ page.excerpt }}">
+<img class="page-image" src="{{ site.url }}/{{ page.image }}" alt="{{ page.excerpt }}">
 
 # Overview
 

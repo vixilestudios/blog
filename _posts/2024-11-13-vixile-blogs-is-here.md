@@ -6,7 +6,7 @@ date: 2024-11-12 03:04 +0200
 categories: "website"
 image: /assets/images/blog/blogs.png
 ---
-<img class="page-image" src="{{ site.baseurl }}/blog/{{ page.image }}" alt="{{ page.excerpt }}">
+<img class="page-image" src="{{ site.url }}/{{ page.image }}" alt="{{ page.excerpt }}">
 
 
 Welcome to the **VIXILE Blog page**! We are excited to finally launch this space where we can share the latest updates and insights with everyone. This blog is dedicated to keeping you informed about everything happening over here.
