@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-<h2 class="post-list-heading">Our Blogs</h2>
+<h2 class="post-list-heading"><strong>Our Blogs</strong></h2>
 <ul class="post-list">
   {% for post in site.posts %}
     <li class="post-item">
