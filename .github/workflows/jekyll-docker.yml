@@ -19,8 +19,8 @@ on:
       - '_includes/**'
       - '_layouts/**'
       - '_posts/**'
-      - '_drafts/**'
-      - 'assets/**'
+      - 'Gemfile'
+      - 'favicon.ico'
   pull_request:
     branches: [ "main" ]
 
