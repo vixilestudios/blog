@@ -26,7 +26,7 @@ We wanted to highlight a few things about what’s in the works: a big overhaul 
 
 We are preparing infrastructure and a carefully designed tech stack for a **UGC system** in BeatAscend.  
 
-You can expect accounts, trackmaps (user-made levels like _osu!_ or _Geometry Dash_), leaderboards, an in-game track editor, a trackmap zip file format and other such features.
+You can expect accounts, trackmaps (user-made levels like [_osu!_](https://osu.ppy.sh/) or [_Geometry Dash_](https://www.google.com/search?q=geometry+dash&ie=UTF-8)), leaderboards, an in-game track editor, a trackmap zip file format, and other such features.
 
 ---
 
@@ -36,7 +36,7 @@ We plan to integrate **Lua** into **BeatAscend**, enabling track creators to cre
 
 And who knows, _Doom_ or _BeatAscend_ might even be recreated in BeatAscend itself.  
 
-When we add scripting capabilities to BeatAscend Tracks there will be **BeatAscend-tailored Tweening capabilities**.  
+When we add scripting capabilities to BeatAscend Tracks, there will be **BeatAscend-tailored Tweening capabilities**.  
 We might possibly implement tutorials, but you can definitely expect **OSTs** and **official trackmaps**.  
 
 The **BeatAscend Trackmap API** will let you modify what happens in your track, like FX once you cross a certain point, or a sound plays once you press a certain key.  
@@ -47,7 +47,7 @@ The **BeatAscend Trackmap API** will let you modify what happens in your track, 
 
 We want BeatAscend to feel **natural on all devices**.  
 
-Like _osu!lazer_ and _Geometry Dash_, among many other titles. The separate PC and mobile versions feel like they belong on their respective platforms, not feeling wonky or out of place.  
+Like [_osu!lazer_](https://www.youtube.com/watch?v=ut_SOreClcc) and [_Geometry Dash_](https://www.google.com/search?q=geometry+dash&ie=UTF-8), among many other titles. The separate PC and mobile versions feel like they belong on their respective platforms, not feeling wonky or out of place.  
 
 We’re also trying to keep it very polished, so please be patient with us.  
 
