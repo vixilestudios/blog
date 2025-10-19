@@ -16,7 +16,7 @@ As you may have seen in the title, we’ve been working on <span style="
   -webkit-text-fill-color: transparent;
   font-weight: bold;
 ">BeatAscend</span>! 
-(Just… not many updates on this blog page, we’re sorry for that!) 
+(Just... not many updates on this blog page, we’re sorry for that!) 
 
 We wanted to highlight a few things about what’s in the works: a big overhaul has taken place. And we have decided to revamp some parts of BeatAscend from scratch. We will go into more specifics about that in other blogs.
 
